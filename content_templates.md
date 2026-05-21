@@ -16,3 +16,4 @@ The table below shows the current collection of templates, including the name of
 | --- | --- |
 | [content-template](https://github.com/Atomic-Learning/content-template) | Basic template for content pages. |
 | [content-template-codespace-python-minimal](https://github.com/Atomic-Learning/content-template-codespace-python-minimal) | Template for content pages supporting a Codespace with support for the latest Python version and Jupyter Notebooks but, otherwise, minimal installed packages. |
+| [content-template-codespace-python-basic](https://github.com/Atomic-Learning/content-template-codespace-python-basic) | Template for content pages supporting a Codespace with support for the latest Python version and Jupyter Notebooks with Numpy, Scipy, Pandas and Matplotlib installed. |
